@@ -2,12 +2,12 @@ Merhaba, OduncKitapAspnetMVCWebSolution Projesini, İstanbul - Kadıköy Network
 Projenin kaynak kodları private olarak githubımdadır.Tüm hakları ben Betül Akşan'a ve 103 sınıfımın öğrencilerine aittir.
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-- PROJE HAKKINDA TEKNİK BİLGİLER:
-Proje .NET C# Aspnet MVC alt yapısıyla yazılmıştır.
-Proje Entity Framework DB-First yaklaşımıyla yazılmıştır.
-Proje 2 Katmanlı olarak yazılmıştır. (UI ve BLL)
-Proje'de Admin Panelinde Tür, Kategori, Kitap ve Ödünç Verme İşlemleri mevcuttur.
-Projenin vitrin aşaması öğrencilere ödev olarak bırakılmıştır.
+****PROJE HAKKINDA TEKNİK BİLGİLER:****
+- Proje .NET C# Aspnet MVC alt yapısıyla yazılmıştır.
+- Proje Entity Framework DB-First yaklaşımıyla yazılmıştır.
+- Proje 2 Katmanlı olarak yazılmıştır. (UI ve BLL)
+- Proje'de Admin Panelinde Tür, Kategori, Kitap ve Ödünç Verme İşlemleri mevcuttur.
+- Projenin vitrin aşaması öğrencilere ödev olarak bırakılmıştır.
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
