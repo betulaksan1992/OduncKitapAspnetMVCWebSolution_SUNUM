@@ -1,5 +1,6 @@
-Merhaba,
-OduncKitapAspnetMVCWebSolution Projesini, İstanbul - Kadıköy Network Akademi'de Eğitmenlik yaptığım süreçte 103 sınıfı için yazdım.
+
+# OduncKitapAspnetMVCWebSolution_SUNUM
+Merhaba, OduncKitapAspnetMVCWebSolution Projesini, İstanbul - Kadıköy Network Akademi'de Eğitmenlik yaptığım süreçte 103 sınıfı için yazdım.
 Projenin kaynak kodları private olarak githubımdadır.Tüm hakları ben Betül Akşan'a ve 103 sınıfımın öğrencilerine aittir.
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
